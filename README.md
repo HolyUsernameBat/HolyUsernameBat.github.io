@@ -3,13 +3,13 @@
 ## **Table of Contents**
 - [*Killing Floor SDK Mapping Guide*](#killing-floor-sdk-mapping-guide)
   - [**Table of Contents**](#table-of-contents)
-  - [**Intro**](#intro)
-  - [**Basics on Browsers**](#basics-on-browsers)
-  - [**DeepDive – Assets**](#deepdive--assets)
+  - [**🧠 Intro**](#-intro)
+  - [**🗂️ Basics on Browsers**](#️-basics-on-browsers)
+  - [**🧰 DeepDive – Assets**](#-deepdive--assets)
     - [Static Meshes:](#static-meshes)
     - [Texture Providers:](#texture-providers)
     - [General Tip:](#general-tip)
-  - [**Build and BSP holes**](#build-and-bsp-holes)
+  - [**🧱 Build and BSP holes**](#-build-and-bsp-holes)
     - [General Build Scale](#general-build-scale)
     - [Patching up the map (BSP holes)](#patching-up-the-map-bsp-holes)
     - [CAUSE + SUMMARY](#cause--summary)
@@ -17,12 +17,12 @@
     - [FINDING THE BUGGERS](#finding-the-buggers)
     - [CORRESPONDING FIX](#corresponding-fix)
     - [Wider Community Tips](#wider-community-tips)
-  - [**Vertex Editor**](#vertex-editor)
+  - [**🧩 Vertex Editor**](#-vertex-editor)
   - [**💡 Lighting**](#-lighting)
     - [Coronas](#coronas)
     - [Dynamic Lights](#dynamic-lights)
     - [Bonus Fluff](#bonus-fluff)
-  - [**Level Design**](#level-design)
+  - [**🗺️ Level Design**](#️-level-design)
     - [You NEED a theme and/or narrative (before/after outbreak)](#you-need-a-theme-andor-narrative-beforeafter-outbreak)
     - [Planning](#planning)
     - [Lighting Note](#lighting-note)
@@ -30,10 +30,10 @@
     - [Greyboxing](#greyboxing)
     - [Custom Assets \& Lighting](#custom-assets--lighting)
     - [Bonus Stuffs](#bonus-stuffs)
-  - [**Collision**](#collision)
+  - [**💥Collision**](#collision)
     - [Blocking and ZedZone Volumes](#blocking-and-zedzone-volumes)
-  - [**Triggers**](#triggers)
-  - [**Movers**](#movers)
+  - [**🎯Triggers**](#triggers)
+  - [**⚙️ Movers**](#️-movers)
     - [Building The Mover](#building-the-mover)
     - [When to work???](#when-to-work)
   - [**🧭 Pathing**](#-pathing)
@@ -49,7 +49,7 @@
     - [🌫️ Distance Fog](#️-distance-fog)
     - [💀 KillZ (Don’t)](#-killz-dont)
     - [⚠️ Known Hiccups](#️-known-hiccups)
-  - [**Objective Mode**](#objective-mode)
+  - [**✅ Objective Mode**](#-objective-mode)
     - [Designing your Objectives](#designing-your-objectives)
     - [Trigger ObjCondition](#trigger-objcondition)
     - [In Game UI (HUD - World Hint)](#in-game-ui-hud---world-hint)
@@ -69,8 +69,8 @@
     - [Additional / Extreme Measures](#additional--extreme-measures)
     - [Important Bonus Jank](#important-bonus-jank)
   - [**🧪 Testing**](#-testing)
-    - [🌐 Server Testing](#-server-testing)
-    - [🤖 Testing with Bots](#-testing-with-bots)
+    - [Server Testing 🌐](#server-testing-)
+    - [Testing with Bots 🤖](#testing-with-bots-)
     - [*Relevant Console Commands*](#relevant-console-commands)
     - [*Custom Commands:*](#custom-commands)
   - [**🧱 Tips \& Hotkeys (Categorized)**](#-tips--hotkeys-categorized)
@@ -79,7 +79,7 @@
     - [III. Niche Tips / Advanced Fixes (Technical Workarounds)](#iii-niche-tips--advanced-fixes-technical-workarounds)
     - [IV. Community Advice \& Resources](#iv-community-advice--resources)
     - [V. Hotkeys (Table Reference)](#v-hotkeys-table-reference)
-  - [**Known Errors**](#known-errors)
+  - [**🐞 Known Errors**](#-known-errors)
   - [🧰 **Workshop Release**](#-workshop-release)
     - [*Do you Stink?*](#do-you-stink)
     - [*Template*](#template)
@@ -94,7 +94,7 @@
 
 ---
 
-## **Intro**
+## **🧠 Intro**
 
 Hiya, this guide provides tips, but it also serves as a pretty extensive tutorial nowadays.  
 **I HATE KF SDK,** I despise it, it’s awful but I’m here because I love KF. If that’s the case for you, you’ll learn to despise KF SDK as well.  
@@ -132,7 +132,7 @@ Speaking of guides, this one is for making **Killing Floor maps**. This game is 
 Last of all, if you hate my style feel free to only rely on some of my extensive references listed at the end of the guide.  
 Otherwise let’s get started…
 
-## **Basics on Browsers**
+## **🗂️ Basics on Browsers**
 
 Once you’ve prepared a rough shape of section/s in your map *(using cube builders, subtract and odd tools on the left side of your screen)*, 3 things that should get your attention are these little icons near the top of your screen:
 
@@ -181,7 +181,7 @@ Thus, you can put as many copies of tricycles in your map as you like.
 
 
 
-## **DeepDive – Assets**
+## **🧰 DeepDive – Assets**
 
 ### Static Meshes:
 
@@ -263,7 +263,7 @@ Don’t forget search engines and Pinterest have an infinite supply of reference
 
 ---
 
-## **Build and BSP holes**
+## **🧱 Build and BSP holes**
 
 So, there's something you need to realise about how KF SDK works:
 The build button at the top right of your screen re-builds the whole map every time you ask it to, following the set of guidelines you give it.
@@ -408,7 +408,7 @@ Otherwise auto-save and go into portal view, then wireframe to find and edit the
 ---
 
 
-## **Vertex Editor**
+## **🧩 Vertex Editor**
 
 The Vertex Editor tool is way better than I originally gave it credit for (sorry).
 
@@ -538,7 +538,7 @@ You have to simulate at least basic reflections/diffraction with smaller light a
 
 ---
 
-## **Level Design**
+## **🗺️ Level Design**
 
 Ah the cursed topic of experts and fools alike..
 
@@ -658,7 +658,7 @@ Never forget, Players are DUMB. (Delightable Underwear Munching Bums), so leave 
 ---
 
 
-## **Collision**
+## **💥Collision**
 
 So, bumping against meshes or invisible walls that prevents players from breaking your map, and jumping out of bounds…
 This can be a minor thing to worry about. But it’s also **essential** to a player’s in-game experience, so don’t be fooled into ignoring it.
@@ -695,7 +695,7 @@ Whereas not using them enough generally turns into something like this:
 ![Example 2](https://steamuserimages-a.akamaihd.net/ugc/1026202797501704432/0F84C378580049CF1DADAF818E670BABED4E8DBF/)
 
 ---
-## **Triggers**
+## **🎯Triggers**
 
 I'll keep this section brief, using the actor browser, you can select an assortment of triggers to use. Just bear in mind that not all of them will work reliably in KF.
 
@@ -726,7 +726,7 @@ SideSideNote: If there was a third trigger I'd like to learn how to use someday 
 
 ---
 
-## **Movers**
+## **⚙️ Movers**
 
 Now that you’ve started getting to the bare bones of the map, maybe you’ve decided you want a door, elevator or a Moving - static mesh. Yep, those are movers. And yep, it’s pretty much limited to linear motions, so if you want anything more advanced, build an animation.
 
@@ -1118,7 +1118,7 @@ There’s no known fix (thanks, UE2). So test early, preview often, and maybe th
 
 ---
 
-## **Objective Mode**
+## **✅ Objective Mode**
 
 If you’re reading this you’re insane, and you should know **you’re in for a world of pain**. I’ll try ease your suffering:
 
@@ -1446,7 +1446,7 @@ But for important times, testing directly in a **Killing Floor → Solo** game i
 
 ---
 
-### 🌐 Server Testing
+### Server Testing 🌐
 
 If testing in-game is 50% better than testing via SDK, then **server testing** (in private servers ideally) would be *300% better*.
 If you know how to set up a local dedicated server, go for it. Learn how port forwarding works, whatever.
@@ -1468,7 +1468,7 @@ Anyway, server testing is so brilliant because:
 
 ---
 
-### 🤖 Testing with Bots
+### Testing with Bots 🤖 
 
 Anything else about how you test is up to you, but for the loners or considerate ones out there, I’d specifically recommend this mutator:
 [https://forums.tripwireinteractive.com/index.php?threads/mutator-kf-bots.44969/](https://forums.tripwireinteractive.com/index.php?threads/mutator-kf-bots.44969/)
@@ -1622,7 +1622,7 @@ Extended list:
 
 ---
 
-## **Known Errors**
+## **🐞 Known Errors**
 
 Things to look out for:
 
