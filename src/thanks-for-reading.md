@@ -4,13 +4,13 @@
 
 Mucha gratitude if you made it this far.
 This guide is an ongoing effort and I keep adding to it from time to time, so it never really will be finished :o
-Whenever I feel I understand a concept better than I did the day before, it’ll expand — and sometimes I’ll try make it look more concise & readable.
+Whenever I feel I understand a concept better than I did the day before, it’ll expand, and sometimes I’ll try make it look more concise & readable.
 
 It does help me, but I would also hate to think the effort in this guide went mostly to waste given the late release, in a dwindling community.
 So do feel free to check on it whenever you want and give any support or constructive feedback in the comments section.
 
 So why are you still here? **Weirdo.**
-Well, I may as well give one more link — here’s a video of a KF Speedmapper?, in a timelapse:
+Well, I may as well give one more link.. here’s a video of a KF Speedmapper?, in a timelapse:
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/XLspWWx3Qos" 
@@ -20,8 +20,8 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen>
 </iframe>
 
-See if you can spot some of the features you may have learned along the way — how you could plan, or maybe upscale some of his building methods.
-It’s a great example for planning, although nobody cares if it’s scribbles. With a ruler and more effort, you can accurately envision a plan with usable dimensions.
+See if you can spot some of the features you may have learned along the way, how you could plan, or maybe upscale some of his building methods.
+It’s an amazing example for planning, although nobody cares if it’s scribbles. With a ruler and more effort, you can accurately envision a plan with usable dimensions.
 
 Anyway, maybe I’ll catch you around town :o
 

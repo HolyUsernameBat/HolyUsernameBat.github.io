@@ -2,7 +2,7 @@
 
 UE3 includes a polygon limit when importing maps lol.
 **65535** of them to be exact.
-So—batches, batches, *batches.*
+So batches, batches, *batches.*
 
 And ofc you can check out this [TWI forum post](https://forums.tripwireinteractive.com/index.php?threads/wip-kf-dd-tavernsiege.2277096/#post-2277504).
 
@@ -13,7 +13,7 @@ And ofc you can check out this [TWI forum post](https://forums.tripwireinteracti
 > Moving assets instead of copying will auto-assign MAT directory references to the new package.
 > Just **do NOT save** the package changes from the game’s default UPK packages.
 >
-> Dungeon Defenders is built off an older version of UDK (UE3), so it’s a bit easier to grab similar MATs/Textures/UPKs—but the procedure’s the same.
+> Dungeon Defenders is built off an older version of UDK (UE3), so it’s a bit easier to grab similar MATs/Textures/UPKs, but the procedure’s the same.
 > Categorise everything you grab or you’ll lose progress *fast*.
 >
 > Since **KF2** is built off a newer and heavily modified version of UE3, it’d be nice if we could just grab the packages and load them in, right?
@@ -28,14 +28,13 @@ If it crashes? One of those meshes is bad.
 
 This is why you import **a few at a time**, not all at once, unless you enjoy watching the SDK implode under memory allocation errors.
 
-After that, rebuild all the usual stuff — **Lighting**, **Pathing**, **Volumes**, etc.
+After that, rebuild all the usual stuff: **Lighting**, **Pathing**, **Volumes**, etc.
 Porting isn’t easy.
-It takes *patience, stubbornness, and caffeine*, but it’s rewarding in the end.
 
 ---
 
 Alternatively, there’s a slightly more efficient method.
-**For all further advice/tutorials — massive thanks to [Steven](https://steamcommunity.com/id/KlLLMaster/).**
+**For all further advice/tutorials: massive thanks to [Steven](https://steamcommunity.com/id/KlLLMaster/).**
 Join the **[KF Modders Discord](https://discord.gg/rzNpaD3)** for support.
 
 📄 **WordDoc Tutorial:**
