@@ -2,7 +2,7 @@
 
 Once you’ve prepared a rough shape of section/s in your map *(using cube builders, subtract and odd tools on the left side of your screen)*, 3 things that should get your attention are these little icons near the top of your screen:
 
-![UE2 toolbars (2)](UE2%20toolbars%20\(2\)_LI.jpg)
+[![UE2 toolbars (2)](UE2%20toolbars%20\(2\)_LI.jpg)](https://images.steamusercontent.com/ugc/1053226326655306742/508758E5ED2210E24C7F119A9EFE9558386AC86C/)
 
 First is the **actor class browser** - chess pawn icon, next is your **texture browser** - a painting -, and on the right is the **static mesh browser** in the form of an arch.
 
