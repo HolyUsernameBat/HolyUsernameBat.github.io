@@ -8,7 +8,7 @@ Well, your first step is to assign the mesh as a mover. Technically, you may be 
 
 ### Building The Mover
 
-![Mover](Mover.jpg)
+![Mover](https://images.steamusercontent.com/ugc/2411187472722948341/1A932CD29BE43E97EF5C12812F88B0A9791DB5A9/)
 
 First, **highlight** the SM you want in the *mesh browser*, then click the rectangle with 4 arrows as shown above ^^
 (Oh and if you Rick — right click — you get to choose between advanced mover types).
@@ -27,7 +27,7 @@ So re-position or rotate the mover, and keep that motion simple, because if you 
 
 Naturally, this is when you Rick and go into its **properties**:
 
-![Mover Properties](MoverProp.jpg)
+![Mover Properties](https://images.steamusercontent.com/ugc/2411187472722972122/37C4E0521FFAFA01BE28CBBCB7789B1A244C4615/)
 
 Among the tabs this opens up there are 3 vital ones:
 

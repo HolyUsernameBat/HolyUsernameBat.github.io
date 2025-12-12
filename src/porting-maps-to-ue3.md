@@ -42,7 +42,13 @@ Join the **[KF Modders Discord](https://discord.gg/rzNpaD3)** for support.
 [https://1drv.ms/w/c/27e2d51aa2ebaadd/EdVUVo-W0XZPrTVYohFBNUgBqv3IWB--7woFLt2rDCmICQ?e=apbd7e](https://1drv.ms/w/c/27e2d51aa2ebaadd/EdVUVo-W0XZPrTVYohFBNUgBqv3IWB--7woFLt2rDCmICQ?e=apbd7e)
 
 ▶ **YouTube Video:**
-[https://www.youtube.com/watch?v=sVbDvROecKA](https://www.youtube.com/watch?v=sVbDvROecKA)
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/sVbDvROecKA" 
+title="KF1 - Map Export" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen>
+</iframe>
 
 ---
 

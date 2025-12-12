@@ -85,7 +85,13 @@ threads/static-mesh-import-errors.113852/)
 * Maybe look at this for extra SDK functionality (Be v careful unrealed.ini sensitive lol): https://forums.tripwireinteractive.com/index.php?threads/customizing-popup-actor-list.101481/
 * Don’t even *touch* this cursed SDK without good music or a podcast.
 * **Holy Grail of BSP Basics:**
-    [▶ YouTube Video](https://www.youtube.com/watch?v=0s9TTUZ48pQ?si=MRuGYagGGTmLB0CC)
+    <iframe width="560" height="315" 
+src="https://www.youtube.com/embed/0s9TTUZ48pQ" 
+title="Unreal Editor 2 Tutorial - 2D Shape Editor" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen>
+</iframe>
 
 ***
 

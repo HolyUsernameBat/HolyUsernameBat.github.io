@@ -15,8 +15,8 @@ This game is soo dead you’re prob here because you’re REALLY bored, or click
 > [GitHub Release – metallicafan212/UE2SelectionFixes v0.3-Alpha-KF](https://github.com/metallicafan212/UE2SelectionFixes/releases/tag/v0.3-Alpha-KF)  
 
 > If you **JUST** started with KF SDK and you don’t like my *Basics* section, here’s a video which isn’t terrible for beginners:  
-> 
-> <iframe width="560" height="315" 
+
+ <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/basbB5NzTzU?list=PLsHIUYkkz0G6J9_BHc5fD7PEY97TUyLsD" 
 title="Unreal Editor 2.5 Tutorial" 
 frameborder="0" 
@@ -43,13 +43,14 @@ allowfullscreen>
 > For an unofficial KF1 modder discord (Bungalow), ping a message my way and I'll see if I can get you an invite, same as before, play nice, read their rules.
 
 > As an aside, here is a tutorial of me developing a small map to completion, without the decorating unfortunately: 
-> 
-> <iframe width="560" height="315" 
+
+ <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/zl2e_5K6OS4" 
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen>
 </iframe>
 
-Last of all, if you hate my style feel free to instead rely on some of my extensive references listed at the end of the guide.  
+>Last of all, if you hate my style feel free to instead rely on some of my extensive references listed at the end of the guide.  
+
 Otherwise let’s get started…

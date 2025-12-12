@@ -19,7 +19,14 @@ This should help you pick a setting including theme (e.g: wintry maze-like wonde
 
 **TIP 1:** KF is gonna be gritty and hard themes obv.
 **TIP 2:** You can also consider easy cataloguing software like [Allusion](https://allusion-app.github.io/) + [PureRef](https://www.pureref.com/):
-	https://youtu.be/0I_nZ4gDufY
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/0I_nZ4gDufY" 
+title="Allusion 1.0 Release" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen>
+</iframe>
 
 ---
 
@@ -31,11 +38,29 @@ It might be cool to squeeze a fancy church cloister into map A but just put it i
 So how does a plan full of rectangles even envision a theme?
 I’ma fall back on experts here v24 (see below):
 
-[▶ YouTube Video](https://www.youtube.com/watch?v=XW7KvppTspc?si=X6oK1YXTcJI_HcUE)
-[▶ YouTube Video](https://www.youtube.com/watch?v=WWXsmnlmADc?si=QCE2g4pDLkJHis1V)
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/XW7KvppTspc" 
+title="Level Design Workshop: Architecture in Level Design" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen>
+</iframe>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/WWXsmnlmADc" 
+title="Interior Design and Environment Art: Mastering Space, Mastering Place" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen>
+</iframe>
 
 **Optional/KFO**
-[▶ YouTube Video](https://www.youtube.com/watch?v=iNEe3KhMvXM?si=yc6tYbmBrBbYCHm1)
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/iNEe3KhMvXM" 
+title="Ten Principles for Good Level Design" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen>
+</iframe>
 
 ---
 
@@ -45,7 +70,7 @@ For planning in this GameEngine, note the honourable mention for lighting:
 lightmapping is based on BSP size. So, for consistency, any bigger rooms should be split into equal-ish sizes of BSP brushes while developing your map.
 
 Sketches or low quality 2D blueprinting also help. Here’s an early plan me and my partner used for our KFO map (what is it missing?):
-[previewimg=35468031;sizeFull,floatLeft;Arena.jpg][/previewimg]
+![Arena](https://images.steamusercontent.com/ugc/2411186208123001920/CDDB1A0E84ACCBDD15FB9C8AE15927449DDF2938/)
 
 ---
 
@@ -54,7 +79,7 @@ Sketches or low quality 2D blueprinting also help. Here’s an early plan me and
 Don’t be like every other average Joe — plan like you’re drafting blueprints as an architect (although not as pretty as them). You’ll make life easier down the line.
 
 > As for KF planning → Follow [this dude’s advice](https://steamcommunity.com/workshop/discussions/18446744073709551615/4520009742919820869/?appid=1250) (he sounds smarter than me):
-> [previewicon=38859192;sizeOriginal,inline;Screenshot 2024-12-15 001042.png][/previewicon]
+> ![MeshScaling](https://images.steamusercontent.com/ugc/59206843814555611/775437BBAB56EB75462ADB9998319F106D1174FA/)
 
 Keep everything **simple and wide** (>200 width for walkable SM, >256 for BSP). This helps both the dumb specimen pathing and player navigation.
 
@@ -62,7 +87,7 @@ Also **build in sightblockers** — good level design naturally optimises perfor
 Use valleys, walls, or fat decorations (**for antiportals**) to limit render load.
 
 Example:
-[previewimg=35574608;sizeFull,floatLeft;TurbineRoom2.png][/previewimg]
+ ![KFDamPlan](https://images.steamusercontent.com/ugc/2411187472719077136/9600720FBCBB7DCD639C7304DF181DDD43222146/)
 
 ---
 
@@ -96,9 +121,7 @@ Easter eggs are a great way to encourage players to explore and appreciate your 
 
 Example: **KF-SawnOfTheDead**
 
-[screenshot=2359758403;sizeOriginal,floatLeft;<a rel="nofollow" href="https://steamuserimages-a.akamaihd.net/ugc/1679247183357572929/DB7C79A3492C512C7070B16471F40DFCF0AD1D29/">link</a>][/screenshot]
-
-(Grab 2nd Screenshot of impaled zed on tree or Pub arsenal?)
+![Sawn.png](https://images.steamusercontent.com/ugc/1679247183357572929/DB7C79A3492C512C7070B16471F40DFCF0AD1D29/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 **10/10**
 
