@@ -2,7 +2,7 @@
 
 Once you’ve prepared a rough shape of section/s in your map *(using cube builders, subtract and odd tools on the left side of your screen)*, 3 things that should get your attention are these little icons near the top of your screen:
 
-[![UE2 toolbars (2)](UE2%20toolbars%20\(2\)_LI.jpg)](https://images.steamusercontent.com/ugc/1053226326655306742/508758E5ED2210E24C7F119A9EFE9558386AC86C/)
+[![UE2 toolbars (2)](https://images.steamusercontent.com/ugc/1053226326655306742/508758E5ED2210E24C7F119A9EFE9558386AC86C/)
 
 First is the **actor class browser** - chess pawn icon, next is your **texture browser** - a painting -, and on the right is the **static mesh browser** in the form of an arch.
 
@@ -29,7 +29,7 @@ Also a cool tut here:
 
 **//proTip2:** However, if you plan to mostly work with textures only for KF, for file size + optimisation it is definitely worth learning the inbuilt material classes (They do work!) → the [Material Modifier](https://docs.unrealengine.com/udk/Two/MaterialsModifiers.html) is particularly simple to use and the UDN Site Map explains it well:
 
-![Material Classes](material_classes.png)
+![Material Classes](https://images.steamusercontent.com/ugc/2411187712720862070/658BD86F21CFD00DF794DA3F4BAABC11A9B1DD70/)
 
 ---
 

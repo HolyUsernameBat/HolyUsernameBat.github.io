@@ -15,7 +15,14 @@ This game is soo dead you’re prob here because you’re REALLY bored, or click
 > [GitHub Release – metallicafan212/UE2SelectionFixes v0.3-Alpha-KF](https://github.com/metallicafan212/UE2SelectionFixes/releases/tag/v0.3-Alpha-KF)  
 
 > If you **JUST** started with KF SDK and you don’t like my *Basics* section, here’s a video which isn’t terrible for beginners:  
-> [▶ YouTube Video](https://www.youtube.com/watch?v=basbB5NzTzU&list=PLsHIUYkkz0G6J9_BHc5fD7PEY97TUyLsD&index=1)
+> 
+> <iframe width="560" height="315" 
+src="https://www.youtube.com/embed/basbB5NzTzU?list=PLsHIUYkkz0G6J9_BHc5fD7PEY97TUyLsD" 
+title="Unreal Editor 2.5 Tutorial" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen>
+</iframe>
 
 > If you’re only interested in SDK but don’t **EVEN** know how to open it yet, this guide would be better to start with:  
 > [Steam Guide – Getting Started with SDK](https://steamcommunity.com/sharedfiles/filedetails/?id=117622426)
@@ -33,7 +40,16 @@ This game is soo dead you’re prob here because you’re REALLY bored, or click
 > If you prefer to mod you could consult my guide but [Lazy KF Wiki](https://insultingpros.github.io/LazyKFWiki/#/UnrealScript/ModdingSetup) is a better place to start.
 >Community: [Official KF Modders discord.](https://discord.gg/rzNpaD3) (KF2 modders expanded their discord for us, and help with favours from time to time so play nice please).
 
-> For an unofficial KF1 modder discord (Bungalow), ping a message my way and I'll see if I can get you in, same as before, play nice, read their rules.
+> For an unofficial KF1 modder discord (Bungalow), ping a message my way and I'll see if I can get you an invite, same as before, play nice, read their rules.
+
+> As an aside, here is a tutorial of me developing a small map to completion, without the decorating unfortunately: 
+> 
+> <iframe width="560" height="315" 
+src="https://www.youtube.com/embed/zl2e_5K6OS4" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
 
 Last of all, if you hate my style feel free to instead rely on some of my extensive references listed at the end of the guide.  
 Otherwise let’s get started…

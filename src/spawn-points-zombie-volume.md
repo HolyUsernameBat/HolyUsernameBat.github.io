@@ -3,12 +3,12 @@
 For setup...
 Similar to BSP, first **arrange the size + position of your active (builder) brush**. Then rick this tool to select your volume.
 
-![Zombie Volume Properties Preview](ZombieVProp.png)
+![Zombie Volume Properties Preview](https://images.steamusercontent.com/ugc/2411187472718903340/1D1E73FCCDA65BBC068C752D2EAD2C892CC734F5/)
 
-Following on — unless you’re making a KFO map (**don’t xD**) — leave the **Tag** alone and focus on
+Following on, unless you’re making a KFO map (**don’t xD**), leave the **Tag** alone and focus on
 **Properties → ZombieVolume**:
 
-![Zombie Volume Properties Panel](ZVolProperties.png)
+![Zombie Volume Properties Panel](https://images.steamusercontent.com/ugc/2411187472718911553/E35E31A6C19819E4FCB9A475056E2BAA0F4CF9FB/)
 
 ---
 

@@ -1,20 +1,20 @@
 ## 🧰 **Workshop Release**
 
-It couldn’t be more simple — navigate to **Tools → Upload files to Steam Workshop**.
+It couldn’t be more simple, navigate to **Tools → Upload files to Steam Workshop**.
 
-![Workshop Tools Screenshot](https://steamuserimages-a.akamaihd.net/ugc/35405394/KFToolsList.jpg)
+![Workshop Tools Screenshot](https://images.steamusercontent.com/ugc/2411186208092595171/FF721A94B8CABD6D78111CF2F84E54A94E1E335A/) 
 
 Since everyone *should* have the same Killing Floor file directories, the workshop will only upload files that are inside your **Killing Floor** folder, and it will install them into other players’ folders *exactly where it found yours*.
 
 ^
 For example: if you accidentally put a `.rom` file in the **Textures** folder, the workshop might install it into another player’s **Textures** folder too.
-And no one will play your map because — **you stink.**
+And no one will play your map because **you stink.**
 
 ---
 
 💡 **ProTip:**
 The description box during upload has a strict *character limit*.
-But once your item is uploaded, you can freely **edit the description on Steam Workshop** to format it however you like — bold text, sections, emojis — all that fancy stuff.
+But once your item is uploaded, you can freely **edit the description on Steam Workshop** to format it however you like, bold text, sections, emojis, mid life crisis, it's yours to mutilate as you please.
 
 But first…
 
@@ -26,13 +26,25 @@ If you tick *every single tag* when uploading something simple, you **definitely
 Tags are meant to make the workshop easier to navigate — but for KF, they’re basically pointless now.
 There’s no moderation for lying tags, so everyone stinks, nobody browses properly, and it sure won’t help your views in the long run.
 
-![Uploading Screenshot](https://steamuserimages-a.akamaihd.net/ugc/35405415/KFUploading.jpg)
+![Uploading Screenshot](https://images.steamusercontent.com/ugc/2411186208092603509/0BEC7D009369E289C841ACE848AAE4C89B28AA98/)
 
 📖 *Reference:*
 [Tripwire Wiki – Killing Floor Steam Workshop](https://wiki.tripwireinteractive.com/index.php?title=Killing_Floor_Steam_Workshop)
 
 ---
 
+### Example Map release
+
+ Here's a YouTube upload of me releasing a KF map, and the things I might consider beforehand, and post-release:
+ 
+ <iframe width="560" height="315" 
+src="https://www.youtube.com/embed/SzUIB1Ersa8" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+ 
+---
 ### *Template*
 
 Don’t underestimate your upload formatting — it’s the **main advertisement** for your map.

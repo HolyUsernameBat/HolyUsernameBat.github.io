@@ -116,10 +116,10 @@ Having FPS issues?
 > This **somehow doubled my framerate** after rebuilding the map.
 
 **Before:**
-![Before Screenshot](JK-Before.JPG)
+![Before Screenshot](https://images.steamusercontent.com/ugc/17756956653201008884/01E8EBBA0607D34368CE8B7A35D83773AD5F5170/)
 
 **After:**
-![After Screenshot](JK-After.JPG)
+![After Screenshot](https://images.steamusercontent.com/ugc/10004258687407434152/168E5995CA5642C1C16F8559D30EABAB36081042/)
 
 **Explainer:**
 According to OldUnreal, this engine’s mesh batching can “break,” forcing it to reload meshes individually per instance.

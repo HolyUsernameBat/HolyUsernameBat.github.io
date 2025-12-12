@@ -1,6 +1,6 @@
 ## **🧪 Testing**
 
-Testing is **Hella Important** — if you release a map you haven’t tested, it’s garbage. 100%.
+Testing is **Hella Important**. If you release a map you haven’t tested, it’s garbage. 100%.
 
 What’s more, if you don’t have any friends (:c), you’ll probably be relying on solo testing for now and that’s fine.
 Up at the top of SDK there’s a game controller icon for quick tests, and it’s great for hopping in there on a whim.

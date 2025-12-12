@@ -3,7 +3,7 @@
 If you’re reading this you’re insane, and you should know **you’re in for a world of pain**. I’ll try ease your suffering:
 
 ***The Objectives***
-![KFO.png](image-url-placeholder)
+![KFO.png](https://images.steamusercontent.com/ugc/2411186208123035264/86E5EC5206A3E875DFFA41CCC843825691F08B13/)
 
 1. This is where you can find the **objective actor** in the actor browser.
 2. For your objectives to work, they have to be named — the first objective is **always named start** (*unless you’re special*).
@@ -29,7 +29,7 @@ Consider making a small KFO project to learn some ropes, then transfer to a KF- 
 
 ### Designing your Objectives
 
-![ObjCondition.png](image-url-placeholder)
+![ObjCondition.png](https://images.steamusercontent.com/ugc/2411186208123049677/8185260E507DD2C835254A1A9336A5A8974D31BA/)
 ^
 The mother of KFO… Say hello to the **KFStoryObjective** actor. You may hate it some days but it’s your friend. The 3 most important properties are covered below.
 
@@ -76,10 +76,10 @@ Copy-paste from official map. Important notes:
 *(see endings of official maps or [Mansion](https://steamcommunity.com/sharedfiles/filedetails/?id=399639299))*
 
 **KFSceneManager:**
-![Screenshot 2024-04-30 004101.png](image-url-placeholder)
+![Screenshot 2024-04-30 004101.png](https://images.steamusercontent.com/ugc/2459604415953019810/9FF38561D4EB98F1F2F57BFBCE3675727101217B/)
 +
 **Cinematic Camera:**
-![Screenshot 2024-04-30 004250.png](image-url-placeholder)
+![Screenshot 2024-04-30 004250.png](https://images.steamusercontent.com/ugc/2459604415953019359/4765EC9EC08893A3CE786A0DD7C7C47CC191DF08/)
 
 ---
 

@@ -67,7 +67,7 @@ https://www.sketchuptextureclub.com/textures
 
 If you import custom textures, consider the advice on the TWI mapping guide for final edits:
 
-![KFTexPostPx](KFTexPostPx.png)
+![KFTexPostPx](https://images.steamusercontent.com/ugc/2467483736426586906/9572D536A3BA3A1193E6EBF7CC771830AAFBB5FA/)
 
 👉 [https://docs.gimp.org/2.10/en/gimp-filter-emboss.html](https://docs.gimp.org/2.10/en/gimp-filter-emboss.html)
 

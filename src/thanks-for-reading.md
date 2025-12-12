@@ -12,7 +12,13 @@ So do feel free to check on it whenever you want and give any support or constru
 So why are you still here? **Weirdo.**
 Well, I may as well give one more link — here’s a video of a KF Speedmapper?, in a timelapse:
 
-[▶ YouTube Video](https://www.youtube.com/watch?v=XLspWWx3Qos&feature=youtu.be)
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/XLspWWx3Qos" 
+title="Killing Floor 1 SDK Speed Mapping" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen>
+</iframe>
 
 See if you can spot some of the features you may have learned along the way — how you could plan, or maybe upscale some of his building methods.
 It’s a great example for planning, although nobody cares if it’s scribbles. With a ruler and more effort, you can accurately envision a plan with usable dimensions.
