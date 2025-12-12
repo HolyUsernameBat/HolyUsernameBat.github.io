@@ -52,14 +52,14 @@ Otherwise, place it in your own named SM package, which will have to be download
 
 Assuming you have software like GIMP to convert file types to `.dds`, and follow the import rules (dimensions x²), here’s a small list of texture providers you may consider:
 
-https://polyhaven.com/textures
-https://www.textures.com/
-https://ambientcg.com/list?type=Material,Atlas,Decal
-https://texture.ninja/
-https://opengameart.org/
-https://itch.io/game-assets/free/tag-textures
-https://www.poliigon.com/ (these ones prob overkill)
-https://www.sketchuptextureclub.com/textures
+* [Poly Haven](https://polyhaven.com/textures)
+* [Textures.com](https://www.textures.com/)
+* [AmbientCG](https://ambientcg.com/list?type=Material,Atlas,Decal)
+* [Texture Ninja](https://texture.ninja/)
+* [OpenGameArt](https://opengameart.org/)
+* [itch.io Assets](https://itch.io/game-assets/free/tag-textures)
+* [Poliigon](https://www.poliigon.com/) (these ones prob overkill)
+* [Sketchup Texture Club](https://www.sketchuptextureclub.com/textures)
 
 > **Free textures galore!**
 
